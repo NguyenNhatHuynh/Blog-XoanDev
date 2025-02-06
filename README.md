@@ -105,5 +105,7 @@ Create the `.env` file in the admin folder with the following:
 ---
 
 ## 📧 **For Support, Contact**:
-- Email: [xoandev@gmail.com](mailto:xoandev@gmail.com)
+- Email: [xoandev@gmail.com](mailto:xoandev163@gmail.com)
+
+- [x] **Status Project: ** In Progress
 
